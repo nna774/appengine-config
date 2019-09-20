@@ -1,0 +1,5 @@
+dispatch:
+  - url: "dark-kuins.net/"
+    service: www-redirector
+  - url: "items.dark-kuins.net/"
+    service: items
